@@ -1,8 +1,9 @@
-👋 Hi, I’m @aryintech!
+👋 Hi, I’m Ari!
 
 
 👀 I’m interested in cannabis, social advocacy, and the arts. 
-🌱 I’m currently working on building my own website with HTML and CSS (WebDev)
+🌱 I’m currently working on building my own website with HTML, CSS,and JavaScript.
+
 
  📫 What am I exploring this week? Currently exploring how I can visit more of Florida's natural springs. 
 
