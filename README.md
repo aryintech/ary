@@ -2,10 +2,10 @@
 
 
 👀 I’m interested in cannabis, social advocacy, and the arts. 
-🌱 I’m currently working on building my own website with HTML, CSS,and JavaScript.
+🌱 I’m currently working on a learning wordpress; https://arylearns.wordpress.com
 
 
- 📫 What am I exploring this week? Currently exploring how I can visit more of Florida's natural springs. 
+ 📫 What am I exploring this week? Currently exploring how I can learn BASL. 
 
 <!---
 aryintech/aryintech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
