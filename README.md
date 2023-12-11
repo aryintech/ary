@@ -5,7 +5,7 @@
 🌱 I’m currently working on a learning wordpress; https://arylearns.wordpress.com
 
 
- 📫 What am I exploring this week? Currently exploring how I can learn BASL. 
+ 📫 What am I exploring this week? Currently exploring how I can up my Modeling skills.
 
 <!---
 aryintech/aryintech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
